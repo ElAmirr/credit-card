@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/credit-card/static/css/main.f67255c3.chunk.css",
+    "main.js": "/credit-card/static/js/main.dfd040ce.chunk.js",
+    "main.js.map": "/credit-card/static/js/main.dfd040ce.chunk.js.map",
+    "runtime-main.js": "/credit-card/static/js/runtime-main.c801e583.js",
+    "runtime-main.js.map": "/credit-card/static/js/runtime-main.c801e583.js.map",
+    "static/js/2.4f419c82.chunk.js": "/credit-card/static/js/2.4f419c82.chunk.js",
+    "static/js/2.4f419c82.chunk.js.map": "/credit-card/static/js/2.4f419c82.chunk.js.map",
+    "index.html": "/credit-card/index.html",
+    "precache-manifest.f78bd26758f85df7fc2f9cf782e34af7.js": "/credit-card/precache-manifest.f78bd26758f85df7fc2f9cf782e34af7.js",
+    "service-worker.js": "/credit-card/service-worker.js",
+    "static/css/main.f67255c3.chunk.css.map": "/credit-card/static/css/main.f67255c3.chunk.css.map",
+    "static/media/logo.svg": "/credit-card/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c801e583.js",
+    "static/js/2.4f419c82.chunk.js",
+    "static/css/main.f67255c3.chunk.css",
+    "static/js/main.dfd040ce.chunk.js"
+  ]
+}
