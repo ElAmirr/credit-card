@@ -1,13 +1,41 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.credit-card {
+  width: 350px;
+  background-image: url("https://previews.123rf.com/images/stori/stori1510/stori151000040/45970295-meilleur-concept-internet-globe-lignes-rougeoyantes-sur-fond-technologique-%C3%89lectronique-wi-fi-rayons-.jpg");
+  color: white;
+  border-radius: 10px;
+  padding: 0 10px;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.credit-card-title {
+  text-align: right;
+}
+.credit-card-content {
+  display: flex;
+}
+.credit-card-text {
+  flex: 1;
+  padding-right: 10px
+}
+.credit-card-chip {
+  width: 80px;
+  padding-right: 250px ;
+}
+.credit-card-number {
+  color: #baaf7d;
+  background-color: rgba(186, 175, 125, 0.2)
+}
+.credit-card-valid-thru {
+  text-align: right;
+}
+.credit-card-holder-name {
+  padding: 0;
+  font-size: 1.2em
+}
+.credit-card-logo {
+  width: 70px;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 10px;
+}
+.credit-card-logo img {
+  width: 100%;
 }
